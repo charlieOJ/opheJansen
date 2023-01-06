@@ -28,6 +28,7 @@ I also play guitar, photography, aquarelle painting and sometime embroiderer too
 There's some of the languages and technologies I work with :
 
 [![](https://skillicons.dev/icons?i=github,vscode,html,css,scss,js,react)](https://skillicons.dev)
+
 [![](https://skillicons.dev/icons?i=bootstrap,jquery,ruby,rails,ts,mongodb,webpack)](https://skillicons.dev)
 
 </section>
