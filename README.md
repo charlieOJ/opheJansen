@@ -1,19 +1,13 @@
-<style>
-  .text-center { text-align: center; }
-  section { margin-top: 20px; margin-bottom: 20px; }
-  svg { margin-top: 30px;}
-</style>
+<h1 style="text-align: center;"> 🌈 Hello and welcome ! 🌈</h1>
 
-<h1 class="text-center"> 🌈 Hello and welcome ! 🌈</h1>
-
-<section>
-  <p class="text-center">My name is Charlie O. Jansen and there's some stuffs to know about me.</p>
-  <p class="text-center"><img src="https://img.shields.io/badge/Charlie-they%2Fthem-blue"/></p>
+<section style="margin-top: 20px; margin-bottom: 20px;">
+  <p style="text-align: center;">My name is Charlie O. Jansen and there's some stuffs to know about me.</p>
+  <p style="text-align: center;"><img src="https://img.shields.io/badge/Charlie-they%2Fthem-blue"/></p>
 </section>
 
 ## Who am I ?
 
-<section>
+<section style="margin-top: 20px; margin-bottom: 20px;">
   I'm born in 1995, close to Paris, where I live.
 
 My pronouns are _they/them_.
@@ -28,7 +22,7 @@ I also play guitar, do photography, aquarelle painting and sometime embroiderer 
 
 ## What can I do ?
 
-<section>
+<section style="margin-top: 20px; margin-bottom: 20px;">
 <p>I am a front-end developer, currently learning to do back-end dev too.</p>
 
 There's some of the languages and technologies I work with :
